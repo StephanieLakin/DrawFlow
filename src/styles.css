@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import './dist/drawflow.min.css';
+
+.sample-node {
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    width: 120px;
+    height: 60px;
+    color: blueviolet;
+  }
+  
+  .sample-node-content {
+    text-align: center;
+    padding: 10px;
+    color: greenyellow;
+  }
+  
